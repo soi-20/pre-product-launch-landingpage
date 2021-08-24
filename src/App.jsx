@@ -29,10 +29,7 @@ export default function App() {
               autocomplete="on"
               className="ininth"
             />
-            <input type="submit" className="isixth" />
-            <button className="isixth">
-              <span className="iseventh">Join waitlist</span>
-            </button>
+
             <div className="isixth">
               <span className="iseventh">Join waitlist</span>
             </div>
